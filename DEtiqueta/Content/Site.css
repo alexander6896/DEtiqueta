@@ -22,3 +22,14 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*Quitar fondo a imagenes*/
+.ImgFondo {
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+/*Imagen de Inicio Renta y Venta de Trajes*/
+.VentaRentaTrajes {
+    max-height: 400px;
+}
